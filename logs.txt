@@ -1,0 +1,2 @@
+7.Ignoring Files with .gitignore
+You have been asked to exclude certain files or directories from version control to maintain a clean repository. Your task is to create a .gitignore file and specify patterns for files or directories to be ignored by Git when committing code to the repository.
